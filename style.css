@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap:10px;
+}
+
+.input{
+    display: block;
+    width: 300px;
+    height: 40px;
+    font-size: 24px;
+}
+    
+.numberSelected{
+    font-size: 1.2rem;
+    font-weight: bold;
+}
